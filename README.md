@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Nezir Aydın!
 
 ### 🚀 About Me:
-- CTO at Duqats, passionate about building scalable backend systems.
 - 💻 Software Engineer with expertise in C++, Python, and low-level programming (DPDK).
 - 📈 I'm passionate about developing high-performance solutions and working on innovative projects.
 
