@@ -11,8 +11,8 @@
 - **Other Tools**: Docker, Git, Linux
 
 ### 🌱 Currently Learning:
-- Advanced networking with DPDK.
-- Low-level systems and performance optimization.
+- C# development
+- ASP.NET and web development
 
 ### 🌟 Featured Projects:
 
