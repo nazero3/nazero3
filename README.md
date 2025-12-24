@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nezir Aydın!
+# Hi there 👋 I'm Nazer Rabah!
 
 ### 🚀 About Me:
 - 💻 Software Engineer with expertise in C++, Python, and low-level programming (DPDK).
