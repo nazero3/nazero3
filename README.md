@@ -23,5 +23,4 @@
 
 
 ### 📫 How to reach me:
-- LinkedIn: [Nezir Aydın](https://www.linkedin.com/in/nezir-ayd%C4%B1n-363364b5/)
-- Email: nezir.aydin94@gmail.com
+- Email: nazerrabah1994@gmail.com
