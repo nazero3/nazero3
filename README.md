@@ -16,7 +16,6 @@
 
 ### 🌟 Featured Projects:
 
-- **[Eu4Less](https://play.google.com/store/apps/details?id=com.mycompany.eu4less)**: A mobile application for e-commerce
 - **[EyElavation](https://github.com/nazero3/EyElavation)**: Eye-tracking solution using computer vision.
 - **[LuggPicker](https://github.com/nazero3/LuggPicker)**: A web service for travelers to manage their luggage, avoiding long check-in lines.
 - **[Airline Reservation System](https://github.com/nazero3/Airline-reservation-system)**: A C++ project implementing binary search trees for ticket management.
