@@ -12,7 +12,7 @@
 - **Backend:** Node.js, Express, NestJS, Python/Flask
 - **Systems:** C++, DPDK, Linux kernel customization
 - **Data:** PostgreSQL, MongoDB, Redis
-- ASP.NET and web development
+- **Android Development:** Kotlin
 
 ### 🌟 Featured Projects:
 
